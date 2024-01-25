@@ -1,6 +1,6 @@
 .jumbotron {
-  padding-top: 4rem;
-  background-color: #e2edff;
+  padding-top: 7rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../img/box.png");
 }
 
 #projects {
